@@ -7,7 +7,7 @@ Please find the JAR file by clicking on the above google drive link.
 I have successfully completed Task 1, which involved building a Spring Boot-based ticket booking system with a Thymeleaf frontend. Users can select their start and end stations, get the fare calculated automatically, and generate a unique ticket ID upon purchase. The system ensures that each ticket can only be used once for entry and once for exit. All ticket data is securely stored in a MySQL database. You can test the working of this application using the JAR file through the following URLs:
 
 Built using Java 21 
-This is an springboot + maven + thymlead
+This is an springboot + maven + thymlead application
 Home → http://localhost:8080/
 
 Mark Entry → /enter?ticketId=<your-ticket-id>
